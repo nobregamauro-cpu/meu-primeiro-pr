@@ -1,17 +1,17 @@
 # meu-primeiro-pr
 
-Repositorio de pratica com Claude Code.
+Repositório de prática com Claude Code.
 
-## O que e este projeto
+## O que é este projeto
 
-Este repositorio foi criado para aprender o fluxo de contribuicao com Pull Requests usando o Claude Code.
+Este repositório foi criado para aprender o fluxo de contribuição com Pull Requests usando o Claude Code.
 
 ## Como contribuir
 
 1. Crie uma branch a partir de `main`
-2. Faca suas alteracoes
+2. Faça suas alterações
 3. Abra um Pull Request
 
-## Licenca
+## Licença
 
 MIT
